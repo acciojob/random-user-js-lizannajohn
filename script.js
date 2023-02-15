@@ -1,6 +1,6 @@
 //your code here
 // Output Elements
-let dispUser = document.getElementById("getuser")
+let dispUser = document.getElementById("getUser")
 let fName = document.getElementById("fName")
 let uphoto = document.getElementById("userphoto")
 let info = document.getElementById("additionalinfo")
